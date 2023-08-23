@@ -2,4 +2,4 @@
 
 ## this repo shows some C porjects
 
-### Done by Basma Zidan
+### Done by basma Zidan
